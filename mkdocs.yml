@@ -95,8 +95,7 @@ nav:
       - Temporal Wrapper: guide/temporal_wrapper.md
 # TODO Add guide for a general approach to a new use case
 #    - New Use Case: guide/new_use_case.md
-# TODO Add guide for fine-tuning
-#    - Fine-tuning: guide/finetuning.md
+    - Fine-tuning: guide/finetuning.md
     - Inference: guide/inference.md
 # TODO Add docs for iterate
 #    - Iterate: guide/iterate.md
